@@ -1,0 +1,4 @@
+Day 1
+Introduction
+Data structures
+Decision Making
